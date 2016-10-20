@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/somethiiing/hoppysfoodmart#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "express-subdomain": "^1.0.5"
   }
 }
