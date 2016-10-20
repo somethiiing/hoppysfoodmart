@@ -32,6 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 } 
 
 .jumbotron {
+  height: 325px;
   color: darkgreen;
 }
 
@@ -40,7 +41,27 @@ h1, h2, h3, h4, h5, h6 {
   margin: -20px 0px 0px 0px;
 } 
 
-#subtitleText {
-  width: 400px;
+#jumboText {
+  width: 600px;
+  float: left;
   position: absolute;
 }
+
+.gmap_container {
+  overflow:hidden;
+  float: right;
+  height:300px;
+  width:300px;
+  float:right;
+}
+
+#gmap_canvas {
+  height: 250px;
+  width: 250px;
+}
+
+#gmap_canvas img {
+    max-width: none!important;
+    background: none!important;
+}
+
