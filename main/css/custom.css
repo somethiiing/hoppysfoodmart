@@ -86,3 +86,22 @@ h1, h2, h3, h4, h5, h6 {
 .aboutText {
   margin: 0px 10px 0px 10px;
 }
+
+.socialbuttons {
+  float:right;
+  margin-right: 140px;
+}
+
+#fbicon {
+  height: 30px;
+  width: 30px;
+}
+
+#yelpicon {
+  height: 60px;
+}
+
+#twiticon {
+  height: 30px;
+  width: 30px;
+}
